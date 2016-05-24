@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    font-size: 23px;
+    line-height: 26px;
+
+}
+
+h2 {
+    color: red;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+
+p {
+  font-family: sans-serif;
+
+}
+
+ul {
+    font-size: 12px;
+    line-height: 15px;
+
+}
